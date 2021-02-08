@@ -3,3 +3,5 @@ Calculate droplet nucleation rates from a metadynamics-derived free energy surfa
 LAMMPS and PLUMED inputs are provided to (1) calculate a free energy surface and (2) perform committor analysis on the candidate transition state. 
 These inputs concern both finite size (NVT) and macroscopically relevant (NPT) cases, for a supersaturation of S=8.68.
 Other cases can be modeled by changing the box dimensions and/or pressure, as explained in the manuscript.
+
+A code for calculating the geometric free energy surface, as outlined in J. Chem. Phys. 153, 114118 (2020), is also provided in the codes/ subdir.
